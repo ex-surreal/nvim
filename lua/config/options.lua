@@ -5,4 +5,5 @@
 vim.cmd([[
 set mouse=
 set nohlsearch
+set clipboard=
 ]])
